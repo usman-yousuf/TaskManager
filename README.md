@@ -2,10 +2,10 @@
 Task Manager
 
 ## Prerequisites
-    Composer
-    PHP 7.4
-    Laravel 8
-    Clone the Repository
+   1- Composer
+   2- PHP 7.4
+   3- Laravel 8
+   4- Clone the Repository
     Click the Clone button and copy the url
                     OR
     Download the Repository
