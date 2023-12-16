@@ -1,0 +1,15 @@
+.text-area {
+    resize: none;
+    height: 200px !important;
+}
+
+
+.table th, .table td {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 100px; 
+}
+
+
+
