@@ -6,11 +6,8 @@ Task Manager
    2- PHP 7.4 <br>
    3- Laravel 8 <br>
    4- Clone the Repository
-    Click the Clone button and copy the url
                     OR
     Download the Repository
-    If you prefer to download the project instead of cloning it, you can do so. Go to the main page of the repository, click the button near clone option, then click Download repository.
-
 
 ## Setup Instructions
 After you clone or download the project, navigate to the project directory:
