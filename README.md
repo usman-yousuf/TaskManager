@@ -19,7 +19,7 @@ After you clone or download the project, navigate to the project directory:
 
 Install the Composer dependencies:
 
-    composer install/update
+    composer install
 
 copy .env.example file to file .env:
 
